@@ -1,8 +1,8 @@
 ## Prazer em ter você aqui. Meu nome é João Eduardo, Estudante de programação e amante de tecnologia! 💖💫
 <div align="center">
   <a href="https://github.com/JoaoEduardoz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoEduardoz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEduardoz&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoEduardoz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEduardoz&layout=midnight-purple&langs_count=7&theme=tokyonight"/>
 </div>
  
 <div>
@@ -12,4 +12,3 @@
   <a href="https://www.linkedin.com/in/joão-eduardo-de-liz-da-silva-aa3230197/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEduardoz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
