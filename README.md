@@ -1,7 +1,6 @@
 
 # Aprendendo Programação e Desenvolvimento.
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Joaoeduardoz&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 # 💻 Estudando:
