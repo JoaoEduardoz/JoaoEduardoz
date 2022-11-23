@@ -1,5 +1,5 @@
-# João Eduardo, meu nome.
-Estou aprendendo a programar e desenvolvo pequenos projetos até o momento em python do que aprendi durante as aulas na UDEMY.
+
+#Estou aprendendo a programar e desenvolvo pequenos projetos até o momento em python do que aprendi durante as aulas na UDEMY.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Joaoeduardoz&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
