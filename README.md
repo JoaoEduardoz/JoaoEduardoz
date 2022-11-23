@@ -10,7 +10,11 @@
  
 ## Sobre mim
  
+ Desde pequeno apaixonado por computador e tecnologia e sempre buscando aprender mais sobre esse mundo
  Gosto de estudar programação e descobrir coisas novas.
+ 
+  
+  
 > Atualmente estou estudando  🐍_Python_
   
   
