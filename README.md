@@ -1,4 +1,4 @@
-## Olá. Meu nome é João Eduardo, Estudante de programação e amante de tecnologia 💖💫
+## Olá. Meu nome é João Eduardo, Estudante de Cybersecurity e amante de tecnologia 💖💫
 <div align="center">
   <a href="https://github.com/JoaoEduardoz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoEduardoz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -11,7 +11,7 @@
 ## Sobre mim
  
  Desde pequeno apaixonado por computador e tecnologia e sempre buscando aprender mais sobre esse mundo
- Gosto de estudar programação e descobrir coisas novas.
+ Gosto de estudar Cybersegurança e descobrir coisas novas.
  
   
   
